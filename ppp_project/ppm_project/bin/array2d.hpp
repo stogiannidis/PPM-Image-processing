@@ -1,10 +1,3 @@
-//------------------------------------------------------------
-//
-// C++ course assignment code 
-//
-// G. Papaioannou, 2019 - 2020
-//
-//
 
 #ifndef _ARRAY2D
 #define _ARRAY2D
