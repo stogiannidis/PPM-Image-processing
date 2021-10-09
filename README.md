@@ -1,2 +1,2 @@
 # PPM-Image-processing
-Reading and applyingfilters to PPM Images
+Reading and applying filters to PPM Images
